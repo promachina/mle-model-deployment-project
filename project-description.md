@@ -31,8 +31,14 @@ Yellow taxi dataset: https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.pa
 ## Answer these questions
 
 1. What is the RMSE of your model?
+
+at max_depth 8: 4.461379728714366
+at max_depth 4: 4.565366972110848
+at max_depth 1: 6.305305448429805
+
 2. What would you do differently if you had more time?
 
+Add testing.
 
 ## How to submit your project
 

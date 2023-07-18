@@ -1,0 +1,6 @@
+artifact_location: file:///Users/philipp/projects/mle-model-deployment-project/mlruns/241188979979851784
+creation_time: 1689506981118
+experiment_id: '241188979979851784'
+last_update_time: 1689506981118
+lifecycle_stage: active
+name: yellow-taxi-trip-duration

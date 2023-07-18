@@ -1,0 +1,13 @@
+mlflow
+jupyter
+scikit-learn==1.2.2
+click
+fastapi
+pandas
+pyarrow
+pydantic
+python-dotenv==1.0.0
+google-cloud-storage
+gcsfs
+functions-framework
+uvicorn
